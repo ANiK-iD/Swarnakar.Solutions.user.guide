@@ -1,4 +1,4 @@
-# Swarnakar.Solutions.user.guide to HiLookVision App
+# Swarnakar Solutions user guide to HiLookVision App
 
 This is a very simple user guide i had developed while working for Swarnakar Solutions and has enabled users of varying age groups (20-70) 
 to use the HiLookVison app after hardware installation and initial setup has been completed by the company personnel.
